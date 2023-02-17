@@ -1,0 +1,28 @@
+{
+  "name": "Verax World",
+  "slug": "veraxworld",
+  "traits": { "Rank": { "Gold": 1, "Platinum": 1, "Silver": 1 } },
+  "assets": [
+    {
+      "id": 490423289,
+      "name": "VERAX WORLD #1",
+      "image_url": "/logo-v.png",
+      "traits": [{ "trait_type": "Rank", "value": "Silver" }],
+      "permalink": "https://opensea.io/"
+    },
+    {
+      "id": 489552109,
+      "name": "VERAX WORLD #2",
+      "image_url": "/logo-v.png",
+      "traits": [{ "trait_type": "Rank", "value": "Gold" }],
+      "permalink": "https://opensea.io/"
+    },
+    {
+      "id": 489551846,
+      "name": "VERAX WORLD #3",
+      "image_url": "/logo-v.png",
+      "traits": [{ "trait_type": "Rank", "value": "Platinum" }],
+      "permalink": "https://opensea.io/"
+    }
+  ]
+}
